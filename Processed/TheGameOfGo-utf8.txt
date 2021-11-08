@@ -1961,7 +1961,7 @@ preceding chapter the Japanese names of the various moves are given.
         10.                                  to play here.
 87.     O 11.                        88.     L 11.
 89.     L 10.                        90.     K 10.
-91.     Q 3. White must break up     92.     P 12.
+91.     Q 13. White must break up    92.     P 12.
         Black’s territory in the
         upper right-hand corner.
 93.     M 11. White retreats.        94.     M 10.
