@@ -94,7 +94,7 @@
     <textClass>
         <keywords>
             <list>
-                <item>#####</item>
+                <item>Go (Game)</item>
             </list>
         </keywords>
     </textClass>
@@ -2107,7 +2107,7 @@
     <cell>303. <cell>J 14. Taking three stones.
     <cell>304. <cell>O 8.
 <row>
-    <cell>305. <cell>T 19. Takes.
+    <cell>305. <cell><corr sic="T 19">T 7</corr>. Takes. <!-- GoGoD archive: file 1907-00-00a.sgf -->
     <cell>306. <cell>O 7.
 <row>
     <cell>307. <cell>P 9. Connecting.

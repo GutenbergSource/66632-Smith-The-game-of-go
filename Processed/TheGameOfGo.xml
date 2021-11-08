@@ -19,7 +19,7 @@
             writing-mode: vertical-rl;
             text-orientation: mixed;
             padding-top: 1em;
-        </rendition></tagsDecl></encodingDesc><profileDesc><langUsage><language id="en">English</language><language id="de">German</language><language id="fr">French</language><language id="la-x-bio">Latin (Biological names)</language><language id="ja">Japanese</language><language id="ja-latn">Japanese (Latin transliteration)</language><language id="xx">No linguistic content</language></langUsage><textClass><keywords><list><item>#####</item></list></keywords></textClass></profileDesc><revisionDesc><list><item>2021-10-13 Started.
+        </rendition></tagsDecl></encodingDesc><profileDesc><langUsage><language id="en">English</language><language id="de">German</language><language id="fr">French</language><language id="la-x-bio">Latin (Biological names)</language><language id="ja">Japanese</language><language id="ja-latn">Japanese (Latin transliteration)</language><language id="xx">No linguistic content</language></langUsage><textClass><keywords><list><item>Go (Game)</item></list></keywords></textClass></profileDesc><revisionDesc><list><item>2021-10-13 Started.
     </item></list></revisionDesc></teiHeader><text rend="stylesheet(style/classic.css)"><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/new-cover.jpg)"><figDesc>Newly Designed Front Cover.</figDesc></figure>
 
 
@@ -821,7 +821,7 @@ Published, July, 1908
     </cell><cell rows="1" cols="1">298. </cell><cell rows="1" cols="1">E 1.</cell></row><row><cell rows="1" cols="1">299. </cell><cell rows="1" cols="1">C 1. Takes.
     </cell><cell rows="1" cols="1">300. </cell><cell rows="1" cols="1">J 3.</cell></row><row><cell rows="1" cols="1">301. </cell><cell rows="1" cols="1">T 9. The game is practically over at this point.
     </cell><cell rows="1" cols="1">302. </cell><cell rows="1" cols="1">N 16.</cell></row><row><cell rows="1" cols="1">303. </cell><cell rows="1" cols="1">J 14. Taking three stones.
-    </cell><cell rows="1" cols="1">304. </cell><cell rows="1" cols="1">O 8.</cell></row><row><cell rows="1" cols="1">305. </cell><cell rows="1" cols="1">T 19. Takes.
+    </cell><cell rows="1" cols="1">304. </cell><cell rows="1" cols="1">O 8.</cell></row><row><cell rows="1" cols="1">305. </cell><cell rows="1" cols="1"><corr sic="T 19">T 7</corr>. Takes. 
     </cell><cell rows="1" cols="1">306. </cell><cell rows="1" cols="1">O 7.</cell></row><row><cell rows="1" cols="1">307. </cell><cell rows="1" cols="1">P 9. Connecting.
     </cell><cell rows="1" cols="1">308. </cell><cell rows="1" cols="1">T 15. Takes.</cell></row><row><cell rows="1" cols="1">309. </cell><cell rows="1" cols="1">T 8.
     </cell><cell rows="1" cols="1">310. </cell><cell rows="1" cols="1">C 19.</cell></row><row><cell rows="1" cols="1">311. </cell><cell rows="1" cols="1">F 17.

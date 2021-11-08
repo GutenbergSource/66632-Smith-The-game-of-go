@@ -2855,7 +2855,7 @@ illustration of the rule of “Ko.” No handicaps were given.
         practically over at this
         point.
 303.    J 14. Taking three stones.   304.    O 8.
-305.    T 19. Takes.                 306.    O 7.
+305.    T 7. Takes.                  306.    O 7.
 307.    P 9. Connecting.             308.    T 15. Takes.
 309.    T 8.                         310.    C 19.
 311.    F 17.                        312.    A 13.

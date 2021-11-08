@@ -13,4 +13,5 @@ The version maintained in this repository may be slightly out-of-sync with the v
 | Publisher | Project Gutenberg, Urbana, Illinois, USA., 2021-10-30 |
 | Publication date | 2021-10-30 |
 | Availability | This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at [www.gutenberg.org](https://www.gutenberg.org/). This eBook is produced by the Online Distributed Proofreading Team at [www.pgdp.net](https://www.pgdp.net/). |
+| Keyword | Go (Game) |
 | PG Ebook Number | [66632](https://www.gutenberg.org/ebooks/66632) |
